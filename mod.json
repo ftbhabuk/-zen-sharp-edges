@@ -2,7 +2,7 @@
   "id": "2f7e450c-49c0-4f1e-b018-51514bdcc81b",
   "name": "Zen Sharp Edges",
   "description": "Removes rounded corners from Zen Browser tabs, essentials, sidebar controls, compact navbar, media card, and common panels.",
-  "homepage": "https://github.com/ftbhabuk/zen-sharp-edges",
+  "homepage": "https://github.com/ftbhabuk/-zen-sharp-edges",
   "style": "./chrome.css",
   "readme": "./readme.md",
   "author": "ftbhabuk",

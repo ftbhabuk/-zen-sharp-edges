@@ -1,18 +1,22 @@
 # Zen Sharp Edges
 
+![screenshot](screenshot.png)
+
 Removes rounded corners from Zen Browser tabs, essentials, sidebar controls, compact navbar, media card, and common popup surfaces.
 
 ## What it does
 
-Sets `border-radius: 0px !important` on all major UI elements — tabs, URL bar, search bar, sidebar, workspaces button, media controls, panels, tooltips, and more.
+Sets `border-radius: 0px !important` on all major UI elements — tabs, URL bar, search bar, sidebar, workspaces button, media controls, panels, tooltips, and statusbar.
 
 ## Installation
 
+### From Zen Mods store
 1. Open Zen Browser
 2. Go to `about:config` → Mods
 3. Enable **Zen Sharp Edges**
 
-Or manually place `chrome.css` in your profile's `chrome/` folder.
+### Manual
+Place `chrome.css` in your profile's `chrome/` folder.
 
 ## Compatibility
 

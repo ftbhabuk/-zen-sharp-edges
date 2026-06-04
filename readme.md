@@ -1,6 +1,6 @@
 # Zen Sharp Edges
 
-![screenshot](screenshot.png)
+![screenshot](screenshoot.png)
 
 Removes rounded corners from Zen Browser tabs, essentials, sidebar controls, compact navbar, media card, and common popup surfaces.
 
